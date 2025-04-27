@@ -15,7 +15,7 @@ Personnalisez vos QR Codes et téléchargez-les en un clic !
 
 ## ✨ Démo en ligne
 
-🔗 [Voir la démo](https://comingsoon.app)
+🔗 [Voir la démo](https://qrmmi.netlify.app/)
 
 ## 📦 Installation
 
