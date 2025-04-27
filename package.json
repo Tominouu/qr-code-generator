@@ -11,11 +11,13 @@
     "build:css": "postcss src/index.css -o dist/output.css"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
     "html2canvas": "^1.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-helmet": "^6.1.0",
-    "react-qr-code": "^2.0.15"
+    "react-qr-code": "^2.0.15",
+    "react-router-dom": "^7.5.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
